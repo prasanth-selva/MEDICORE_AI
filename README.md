@@ -1,1 +1,0 @@
-Medicore AI is an AI based Smart hospital management system, It can able to book appointments easily and doctors can able to receive requests from patients which makes easier to give appointments and medicines can able to given easily by sending prescription over this platform, and also medicines stocks and restocks alert are also given by this platform
