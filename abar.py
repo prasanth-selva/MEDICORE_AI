@@ -1,1 +1,0 @@
-print("Assalaimualaikum lyari")
